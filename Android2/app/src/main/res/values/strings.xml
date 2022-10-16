@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_name">Dorian</string>
+    <string name="yellow_star_image">Yellow star image</string>
+    <string name="bio">Dorian Dorian Dorian Dorian Dorian Dorian Dorian <i>Dorian</i> Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian <b>Dorian</b> Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian Dorian</string>
+    <string name="nickname_hint">Nickname</string>
+    <string name="done">Done</string>
+</resources>
